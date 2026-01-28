@@ -1,0 +1,1290 @@
+[
+  {
+    "victory": true,
+    "name": "Win 24 matches with unique weapons",
+    "region": "End Game",
+    "category": [
+      "-GOAL-"
+    ],
+    "requires": "|@Class:3| AND |Unique Win:24|"
+  },
+  {
+    "region": "Start Game",
+    "name": "Win a  match on Bernal",
+    "category": [
+      "Win on Map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Start Game",
+    "name": "Win a match on Fangwai City",
+    "category": [
+      "Win on Map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Start Game",
+    "name": "Win a match on Fortune Stadium",
+    "category": [
+      "Win on Map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Start Game",
+    "name": "Win a match on Kyoto",
+    "category": [
+      "Win on Map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Start Game",
+    "name": "Win a match on Las Vegas",
+    "category": [
+      "Win on Map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Win a match on Las Vegas Stadium",
+    "region": "Start Game",
+    "category": [
+      "Win on Map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Win a match on Monaco",
+    "region": "Start Game",
+    "category": [
+      "Win on Map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Win a match on Nozomi/Citadel",
+    "region": "Start Game",
+    "category": [
+      "Win on Map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Win a match on Seoul",
+    "region": "Start Game",
+    "category": [
+      "Win on Map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Win a match on Skyway Stadium",
+    "region": "Start Game",
+    "category": [
+      "Win on Map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Win a match on SYS$Horizon",
+    "region": "Start Game",
+    "category": [
+      "Win on Map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Start Game",
+    "name": "Win on Sandstorm Las Vegas",
+    "category": [
+      "Win on Map Variant"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Win on a map with Moving Platforms",
+    "region": "Start Game",
+    "category": [
+      "Win on Map Variant"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Start Game",
+    "name": "Win on a map with Suspended Structures",
+    "category": [
+      "Win on Map Variant"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Win on a map with Suspended Sponsor Structures",
+    "region": "Start Game",
+    "category": [
+      "Win on Map Variant"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Win on a map with High Rise Variant",
+    "region": "Start Game",
+    "category": [
+      "Win on Map Variant"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Start Game",
+    "name": "Win on a map with no Variant (Standard Issue)",
+    "category": [
+      "Win on Map Variant"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Start Game",
+    "name": "Win on a Sunny map",
+    "category": [
+      "Win on Map Condition"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Win on a Clear Night map",
+    "region": "Start Game",
+    "category": [
+      "Win on Map Condition"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Get 2,000 Combat Score in one match",
+    "region": "Start Game",
+    "category": [
+      "Scoreboard"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Get 4,000 Combat Score in one match",
+    "region": "Start Game",
+    "category": [
+      "Scoreboard"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Get 2,000 Support Score in one match",
+    "region": "Start Game",
+    "category": [
+      "Scoreboard"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Get 4,000 Support Score in one match",
+    "region": "Start Game",
+    "category": [
+      "Scoreboard"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Get 2,000 Objective Score in one match",
+    "region": "Start Game",
+    "category": [
+      "Scoreboard"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Start Game",
+    "name": "Eliminate 10 opponents in one match",
+    "category": [
+      "Scoreboard"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Revive 4 teammates in one match",
+    "region": "Start Game",
+    "category": [
+      "Scoreboard"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Start Game",
+    "name": "Earn 10 assists in one match",
+    "category": [
+      "Scoreboard"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Steal a Cashout",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Open a Cashbox",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Perform a team wipe with your team",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Perform a team wipe with your team 3 times in one match",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Start Game",
+    "name": "Win a match as the Light",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|Light Class|"
+  },
+  {
+    "region": "Start Game",
+    "name": "Win a match as the Medium",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|Medium Class|"
+  },
+  {
+    "region": "Start Game",
+    "name": "Win a match as the Heavy",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|Heavy Class|"
+  },
+  {
+    "name": "Win a match with the Grappling Hook",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|Light Class| AND |Grappling Hook|"
+  },
+  {
+    "name": "Win a match with the Cloaking Device",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|Light Class| AND |Cloaking Device|"
+  },
+  {
+    "name": "Win a match with the Evasive Dash",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|Light Class| AND |Evasive Dash|"
+  },
+  {
+    "name": "Win a match with the Healing Beam",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|Medium Class| AND |Healing Beam|"
+  },
+  {
+    "name": "Win a match with the Guardian Turret",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|Medium Class| AND |Guardian Turret|"
+  },
+  {
+    "name": "Win a match with the Dematerializer",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|Medium Class| AND |Dematerializer|"
+  },
+  {
+    "name": "Win a match with the Mesh Shield",
+    "region": "Start Game",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|Heavy Class| AND |Mesh Shield|"
+  },
+  {
+    "name": "Win a match with the Charge 'N' Slam",
+    "region": "Start Game",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|Heavy Class| AND |Charge 'N' Slam|"
+  },
+  {
+    "name": "Win a match with the Winch Claw",
+    "region": "Start Game",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|Heavy Class| AND |Winch Claw|"
+  },
+  {
+    "name": "Win a match with the Goo Gun",
+    "region": "Start Game",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|Heavy Class| AND |Goo Gun|"
+  },
+  {
+    "region": "Start Game",
+    "name": "Win on a map with Under Construction Variant",
+    "category": [
+      "Win on Map Variant"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "(L) Win a match with the SR-84",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|SR-84| AND |Light Class|\n",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "region": "Start Game",
+    "name": "(L) Win a match with the Throwing Knives",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|Throwing Knives| AND |Light Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "region": "Start Game",
+    "name": "(L) Win a match with the M11",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|M11| AND |Light Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "region": "Start Game",
+    "name": "(L) Win a match with the LH1",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|LH1| AND |Light Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "region": "Start Game",
+    "name": "(L) Win a match with the M26 Matter",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|M26 Matter| AND |Light Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "region": "Start Game",
+    "name": "(L) Win a match with the SH1900",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|SH1900| AND |Light Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "region": "Start Game",
+    "name": "(L) Win a match with the ARN-220",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|ARN-220| AND |Light Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "region": "Start Game",
+    "name": "(L) Win a match with the Dagger",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|Dagger| AND |Light Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "region": "Start Game",
+    "name": "(L) Win a match with the 93R",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|93R| AND |Light Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "region": "Start Game",
+    "name": "(L) Win a match with the Sword",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|Sword| AND |Light Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "region": "Start Game",
+    "name": "(L) Win a match with the Recurve Bow",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|Recurve Bow| AND |Light Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "region": "Start Game",
+    "name": "(L) Win a match with the V9S",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|V9S| AND |Light Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "region": "Start Game",
+    "name": "(L) Win a match with the XP-54",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|XP-54| AND |Light Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(M) Win a match with the AKM",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|AKM| AND |Medium Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(M) Win a match with the Model 1887",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|Model 1887| AND |Medium Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(M) Win a match with the Famas",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|Famas| AND |Medium Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(M) Win a match with the Dual Blades",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|Dual Blades| AND |Medium Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(M) Win a match with the Cerberus 12GA",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|Cerberus 12GA| AND |Medium Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(M) Win a match with the CL-40",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|CL-40| AND |Medium Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(M) Win a match with the P90",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|P90| AND |Medium Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(M) Win a match with the CB-01 Repeater",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|CB-01 Repeater| AND |Medium Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(M) Win a match with the Riot Shield",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|Riot Shield| AND |Medium Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(M) Win a match with the Pike-556",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|Pike-556| AND |Medium Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "region": "Start Game",
+    "name": "(M) Win a match with the R .357",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|R.357| AND |Medium Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "region": "Start Game",
+    "name": "(M) Win a match with the Fcar",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|Fcar| AND |Medium Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(H) Win a match with the .50 Akimbo",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|.50 Akimbo| AND |Heavy Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(H) Win a match with the M134 Minigun",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|M134 Minigun| AND |Heavy Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(H) Win a match with the Shak-50",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|Shak-50| AND |Heavy Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(H) Win a match with the KS-23",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|KS-23| AND |Heavy Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(H) Win a match with the Flamethrower",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|Flamethrower| AND |Heavy Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(H) Win a match with the MGL32",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|MGL32| AND |Heavy Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(H) Win a match with the BFR Titan",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|BFR Titan| AND |Heavy Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(H) Win a match with the Spear",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|Spear| AND |Heavy Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(H) Win a match with the Sledgehammer",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|Sledgehammer| AND |Heavy Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(H) Win a match with the Lewis Gun",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|Lewis Gun| AND |Heavy Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(H) Win a match with the SA1216",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|SA1216| AND |Heavy Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "(H) Win a match with the M60",
+    "region": "Start Game",
+    "category": [
+      "-Gun wins-"
+    ],
+    "requires": "|M60| AND |Heavy Class|",
+    "place_item": [
+      "Unique Win"
+    ]
+  },
+  {
+    "name": "Win with Vanishing Bomb",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|(L) Vanishing Bomb| AND |Light Class|"
+  },
+  {
+    "name": "Vanish your entire team with one Vanishing Bomb",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|(L) Vanishing Bomb| AND |Light Class|"
+  },
+  {
+    "name": "Win with Sonar Grenade",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|(L) Sonar Grenade| AND |Light Class|"
+  },
+  {
+    "name": "Win with Thermal Bore",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|(L) Thermal Bore| AND |Light Class|"
+  },
+  {
+    "region": "Start Game",
+    "name": "Win with Breach Charge",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|(L) Breach Charge| AND |Light Class|"
+  },
+  {
+    "name": "Win with Glitch Grenade",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|(L) Glitch Grenade| AND |Light Class|"
+  },
+  {
+    "region": "Start Game",
+    "name": "Destroy a building",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Destroy a Suspended Structure",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Destroy a Crane",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Start Game",
+    "name": "Glitch an opponent",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Start Game",
+    "name": "Eliminate an opponent with gas or fire",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Hit an opponent with a carriable, prop, or cashbox",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Win with Nullifier",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|(L) Nullifier| AND |Light Class|"
+  },
+  {
+    "name": "Nullify an opponent",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|(L) Nullifier| AND |Light Class|"
+  },
+  {
+    "name": "Disrupt an opponent stealing a cashout ",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Disrupt an opponent stealing a cashout , 3 times",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Disrupt an opponent stealing a cashout as the Heavy",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Disrupt an opponent stealing a cashout as the Medium",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Disrupt an opponent stealing a cashout as the Light",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Win with Tracking Dart",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|(L) Tracking Dart| AND |Light Class|"
+  },
+  {
+    "name": "Hit an opponent with a Tracking Dart",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|(L) Tracking Dart| AND |Light Class|"
+  },
+  {
+    "name": "Win with H+ Infuser",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|(L) H+ Infuser| AND |Light Class|"
+  },
+  {
+    "name": "Flashbang an opponent",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": "|(ALL) Flashbang| OR |(M) Breach Drill|"
+  },
+  {
+    "name": "Light goo on fire",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Light gas on fire",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Extinguish fire with smoke",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Win with Gateway",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|(L) Gateway| AND |Light Class|"
+  },
+  {
+    "name": "Win with Gravity Vortex",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|(L) Gravity Vortex| AND |Light Class|"
+  },
+  {
+    "name": "Capture an opponent with Gravity Vortex",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|(L) Gravity Vortex| AND |Light Class|"
+  },
+  {
+    "name": "Eliminate a opponent with a mine",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": "|(M) Gas Mine| OR |(M, H) Explosive Mine| OR |(H) Pyro Mine|"
+  },
+  {
+    "name": "Eliminate an opponent with an explosive item",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Win with Defibrillator",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|(M) Defibrillator| AND |Medium Class|"
+  },
+  {
+    "name": "Revive 3 teammates with Defibrillator",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|(M) Defibrillator| AND |Medium Class|"
+  },
+  {
+    "name": "Win with Jump Pad",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|(M) Jump Pad| AND |Medium Class|"
+  },
+  {
+    "name": "Win with Glitch Trap",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|(M) Glitch Trap| AND |Medium Class|"
+  },
+  {
+    "name": "Win with APS Turret",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|(M) APS Turret| AND |Medium Class|"
+  },
+  {
+    "name": "Block 3 grenades with APS Turret (Grenade launchers count)",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|(M) APS Turret| AND |Medium Class|"
+  },
+  {
+    "name": "Win with Data Reshaper",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|(M) Data Reshaper| AND |Medium Class|"
+  },
+  {
+    "name": "Reshape 3 opponents' gadgets with Data Reshaper",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|(M) Data Reshaper| AND |Medium Class|"
+  },
+  {
+    "name": "Win with Zipline",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|(M) Zipline| AND |Medium Class|"
+  },
+  {
+    "name": "Win with Explosive Mine(Medium)",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|(M, H) Explosive Mine| AND |Medium Class|"
+  },
+  {
+    "name": "Win with Explosive Mine(Heavy)",
+    "region": "Start Game",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|(M, H) Explosive Mine| AND |Heavy Class|"
+  },
+  {
+    "name": "Win with Proximity Sensor(Medium)",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|(M, H) Proximity Sensor| AND |Medium Class|"
+  },
+  {
+    "name": "Win with Proximity Sensor(Heavy)",
+    "region": "Start Game",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|(M, H) Proximity Sensor| AND |Heavy Class|"
+  },
+  {
+    "name": "Win with Breach Drill",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|(M) Breach Drill| AND |Medium Class|"
+  },
+  {
+    "name": "Win with Gas Mine",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|(M) Gas Mine| AND |Medium Class|"
+  },
+  {
+    "name": "Win with Healing Emitter",
+    "region": "Start Game",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|(H) Healing Emitter| AND |Heavy Class|"
+  },
+  {
+    "name": "Win with Dome Shield",
+    "region": "Start Game",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|(H) Dome Shield| AND |Heavy Class|"
+  },
+  {
+    "name": "Win with RPG-7",
+    "region": "Start Game",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|(H) RPG-7| AND |Heavy Class|"
+  },
+  {
+    "name": "Eliminate an opponent with RPG-7",
+    "region": "Start Game",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|(H) RPG-7| AND |Heavy Class|"
+  },
+  {
+    "name": "Win with Lockbolt",
+    "region": "Start Game",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|(H) Lockbolt| AND |Heavy Class|"
+  },
+  {
+    "name": "Lockbolt an opponent and eliminate them",
+    "region": "Start Game",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|(H) Lockbolt| AND |Heavy Class|"
+  },
+  {
+    "region": "Start Game",
+    "name": "Win with C4",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|(H) C4| AND |Heavy Class|"
+  },
+  {
+    "name": "Stall a cashout with C4",
+    "region": "Start Game",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|(H) C4| AND |Heavy Class|"
+  },
+  {
+    "name": "Win with Barricade",
+    "region": "Start Game",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|(H) Barricade| AND |Heavy Class|"
+  },
+  {
+    "name": "Eliminate an opponent with Charge 'N' Slam",
+    "region": "Start Game",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|Charge 'N' Slam| AND |Heavy Class|"
+  },
+  {
+    "name": "Winch an opponent with Winch claw and eliminate them",
+    "region": "Start Game",
+    "category": [
+      "Heavy Challenges"
+    ],
+    "requires": "|Winch Claw| AND |Heavy Class|"
+  },
+  {
+    "name": "Drop an opponent down a floor using Dematerializer ",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|Dematerializer| AND |Medium Class|"
+  },
+  {
+    "name": "Eliminate an opponent with the Guardian Turret",
+    "region": "Start Game",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|Guardian Turret| AND |Medium Class|"
+  },
+  {
+    "name": "Emote after eliminating an opponent",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Get an elimination with a headshot(Makes a sound in-game)",
+    "region": "Start Game",
+    "category": [
+      "Basics"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Eliminate an opponent with a backstab while using the Dagger",
+    "region": "Start Game",
+    "category": [
+      "Light Challenges"
+    ],
+    "requires": "|Dagger| AND |Light Class|"
+  },
+  {
+    "region": "Start Game",
+    "name": "Eliminate an opponent by deflecting bullets at them",
+    "category": [
+      "Medium Challenges"
+    ],
+    "requires": "|Guardian Turret| AND |Medium Class|"
+  },
+  {
+    "name": "Win on a Foggy map",
+    "region": "Start Game",
+    "category": [
+      "Win on Map Condition"
+    ],
+    "requires": ""
+  }
+]

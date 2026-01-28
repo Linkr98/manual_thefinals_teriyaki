@@ -1,0 +1,679 @@
+[
+  {
+    "count": 1,
+    "name": "Light Class",
+    "category": [
+      "Class"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Medium Class",
+    "category": [
+      "Class"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Heavy Class",
+    "category": [
+      "Class"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grappling Hook",
+    "category": [
+      "Light Specializations"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cloaking Device",
+    "category": [
+      "Light Specializations"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Evasive Dash",
+    "category": [
+      "Light Specializations"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Healing Beam",
+    "category": [
+      "Medium Specializations"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Guardian Turret",
+    "category": [
+      "Medium Specializations"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dematerializer",
+    "category": [
+      "Medium Specializations"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mesh Shield",
+    "category": [
+      "Heavy Specializations"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Charge 'N' Slam",
+    "category": [
+      "Heavy Specializations"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Winch Claw",
+    "category": [
+      "Heavy Specializations"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Goo Gun",
+    "category": [
+      "Heavy Specializations"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SR-84",
+    "category": [
+      "Light Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Throwing Knives",
+    "category": [
+      "Light Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "M11",
+    "category": [
+      "Light Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "LH1",
+    "category": [
+      "Light Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "M26 Matter",
+    "category": [
+      "Light Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SH1900",
+    "category": [
+      "Light Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "ARN-220",
+    "category": [
+      "Light Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dagger",
+    "category": [
+      "Light Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "93R",
+    "category": [
+      "Light Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sword",
+    "category": [
+      "Light Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Recurve Bow",
+    "category": [
+      "Light Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "V9S",
+    "category": [
+      "Light Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "XP-54",
+    "category": [
+      "Light Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "AKM",
+    "category": [
+      "Medium Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Model 1887",
+    "category": [
+      "Medium Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Famas",
+    "category": [
+      "Medium Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dual Blades",
+    "category": [
+      "Medium Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cerberus 12GA",
+    "category": [
+      "Medium Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "CB-01 Repeater",
+    "category": [
+      "Medium Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P90",
+    "category": [
+      "Medium Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "CL-40",
+    "category": [
+      "Medium Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Riot Shield",
+    "category": [
+      "Medium Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pike-556",
+    "category": [
+      "Medium Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "R.357",
+    "category": [
+      "Medium Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fcar",
+    "category": [
+      "Medium Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": "37",
+    "name": "Unique Win",
+    "category": [
+      "-Unique Weapon Wins-"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": ".50 Akimbo",
+    "category": [
+      "Heavy Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "M134 Minigun",
+    "category": [
+      "Heavy Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shak-50",
+    "category": [
+      "Heavy Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "KS-23",
+    "category": [
+      "Heavy Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flamethrower",
+    "category": [
+      "Heavy Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "MGL32",
+    "category": [
+      "Heavy Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "BFR Titan",
+    "category": [
+      "Heavy Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spear",
+    "category": [
+      "Heavy Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sledgehammer",
+    "category": [
+      "Heavy Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lewis Gun",
+    "category": [
+      "Heavy Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SA1216",
+    "category": [
+      "Heavy Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "M60",
+    "category": [
+      "Heavy Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(L) Sonar Grenade",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(L) Thermal Bore",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(L) Vanishing Bomb",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(L) Breach Charge",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(L) Glitch Grenade",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(L) Nullifier",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(ALL) Pyro Grenade ",
+    "category": [
+      "Gadgets"
+    ],
+    "requires": "not class_specific_items",
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(L) Tracking Dart",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(ALL) Gas Grenade",
+    "category": [
+      "Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(ALL) Goo Grenade",
+    "category": [
+      "Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(L) H+ Infuser",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(ALL) Flashbang",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(ALL) Smoke Grenade",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(ALL) Frag Grenade",
+    "category": [
+      "Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(L) Gateway",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(L) Gravity Vortex",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(M) Defibrillator",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(M) Jump Pad",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(M) Glitch Trap",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(M) APS Turret",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(M) Data Reshaper",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(M) Zipline",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(M, H) Explosive Mine",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(M, H) Proximity Sensor",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(M) Breach Drill",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(M) Gas Mine",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(H) Healing Emitter",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(H) Dome Shield",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(H) RPG-7",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(H) Lockbolt",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(H) C4",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(H) Barricade",
+    "category": [
+      "Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(H) Pyro Mine",
+    "category": [],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(H) Anit-Gravity Cube",
+    "category": [],
+    "progression": true
+  }
+]

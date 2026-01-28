@@ -1,0 +1,14 @@
+{
+  "Start Game": {
+    "starting": true,
+    "connects_to": [
+      "End Game"
+    ],
+    "requires": ""
+  },
+  "End Game": {
+    "connects_to": [],
+    "starting": false,
+    "requires": "|@Class:3| AND |Unique Win:24|"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "TheFinals",
+  "creator": "Teriyaki",
+  "filler_item_name": "Fans",
+  "starting_items": [   {
+      "item_categories": ["Class"],
+      "random": 1
+    },
+    {
+      "item_categories": ["Light Weapons"],
+      "random": 1
+    },
+    {
+      "item_categories": ["Medium Weapons"],
+      "random": 1
+    },
+    {
+      "item_categories": ["Heavy Weapons"],
+      "random": 1
+    },
+    {
+      "item_categories": ["Light Specializations"],
+      "random": 1
+    },
+    {
+      "item_categories": ["Medium Specializations"],
+      "random": 1
+    },
+    {
+      "item_categories": ["Heavy Specializations"],
+      "random": 1
+    },
+    {
+      "item_categories": ["Gadgets"],
+      "random": 3
+    }
+    ]
+}
