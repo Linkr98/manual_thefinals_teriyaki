@@ -1,12 +1,24 @@
 {
-    "Split Items":{
+    "Split Items": {
         "hidden": true,
-        "yaml_option": ["class_specific_items"]
+        "yaml_option": [
+            "class_specific_items"
+        ]
     },
-    
-    "Combined Items":{
+    "Combined Items": {
         "hidden": true,
-        "yaml_option": ["!class_specific_items"]
+        "yaml_option": [
+            "!class_specific_items"
+        ]
+    },
+    "Barrels": {
+        "yaml_option": [
+            "include_barrels"
+        ]
+    },
+    "Barrels Disabled": {
+        "yaml_option": [
+            "!include_barrels"
+        ]
     }
-
 }

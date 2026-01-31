@@ -48,11 +48,8 @@
     },
     {
       "item_categories": [
-        "Light Gadgets",
-        "Medium Gadgets",
-        "Heavy Gadgets"
-      ],
-      "random": 3
+        "Barrels Disabled"
+      ]
     }
   ]
 }

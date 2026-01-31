@@ -14,6 +14,12 @@
             "description": "If on, gadgets that are useable on multiple classes are split so you have to find it per class",
             "type": "Toggle",
             "default": true
+        },
+        "include_barrels": {
+            "display_name": "Include Barrels",
+            "description": "Weather you need checks to use the Barrels arround the map.",
+            "type": "Toggle",
+            "default": false
         }
     }
 }
