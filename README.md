@@ -1,24 +1,81 @@
-# manual_thefinals_teriyaki
-Archipelago Manual for The Finals
+# manual\_thefinals\_teriyaki
 
-# WIP
-# !! Intended to be played in cashout gamemodes only !! (i.e. Cashout, Quick Cash, Head to Head)
-# It is expected that you own all weapons, gadgets, and  specializations (As of Season 9)
+## Archipelago Manual for The Finals
 
-## Goal: Win 24 matches with 24 different weapons
 
-## Locations to send: 
-- Map conditions, variants
-- Winning a match with weapons, gadgets, specializations
-- Doing actions with weapons, gadgets, specializations
-- Doing things to the map (i.e destroying buildings)
-- Combat, support, objective score
-- Eliminations/Revives
 
-## Checks to receive:
-- Weapons
-- Specializations
-- Gadgets
-- Classes
+### Current Status
 
-## Currently no yaml options (Subject to change)
+WIP Beta.
+
+#### Goals:
+
+Regions to better structure progression
+
+Balance
+
+More YAML Options
+
+
+
+### Playing
+
+**IMPORTANT: REQUIRES** Universal Tracker By FarisTheAncient
+
+It can be downloaded from their GitHub:
+https://github.com/FarisTheAncient/Archipelago/releases
+
+
+
+
+
+**Important:** Intended to be played in cashout game modes only  (i.e. Cashout, Quick Cash, Head to Head)
+
+It is expected you have ALL the Weapons, Gadgets, and Specializations unlocked (As of Season 9)
+
+
+
+Goal: Win rounds with x amount of different weapons
+
+
+
+Locations:
+
+Winning on Maps, Conditions, and Variants
+
+Winning matches with Gadgets, and Specializations
+
+An Assortment of challenges we have come up with including:
+
+ 	- destroying buildings
+
+ 	- Eliminations in a match
+
+ 	- Reaching Scoreboard scores
+
+ 	- And many more
+
+Items are the Ability to use:
+
+ 	- Classes
+
+ 	- Specializations
+
+ 	- Gadgets
+
+ 	- Barrels (Optional)
+
+
+
+YAML
+
+You can change the number of weapons you need to win with to Goal
+
+You can decide weather items that exist on maniple classes (i.e. Frag Grenade) needs 1 ore multiple items to unlock for all classes
+
+You can toggle weather Barrels that spawn around the map need to be unlocked
+
+
+
+If you find any issues with Logic, Spelling, or anything else please put it in the GitHub issues or the discord thread 
+
