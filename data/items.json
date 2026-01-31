@@ -304,13 +304,14 @@
     "progression": true
   },
   {
-    "count": "37",
+    "count": 37,
     "name": "Unique Win",
     "category": [
       "-Unique Weapon Wins-"
     ],
     "progression_skip_balancing": true
   },
+
   {
     "count": 1,
     "name": ".50 Akimbo",
@@ -411,7 +412,7 @@
     "count": 1,
     "name": "(L) Sonar Grenade",
     "category": [
-      "Gadgets"
+      "Light Gadgets"
     ],
     "progression": true
   },
@@ -419,7 +420,7 @@
     "count": 1,
     "name": "(L) Thermal Bore",
     "category": [
-      "Gadgets"
+      "Light Gadgets"
     ],
     "progression": true
   },
@@ -427,7 +428,7 @@
     "count": 1,
     "name": "(L) Vanishing Bomb",
     "category": [
-      "Gadgets"
+      "Light Gadgets"
     ],
     "progression": true
   },
@@ -435,7 +436,7 @@
     "count": 1,
     "name": "(L) Breach Charge",
     "category": [
-      "Gadgets"
+      "Light Gadgets"
     ],
     "progression": true
   },
@@ -443,7 +444,7 @@
     "count": 1,
     "name": "(L) Glitch Grenade",
     "category": [
-      "Gadgets"
+      "Light Gadgets"
     ],
     "progression": true
   },
@@ -451,24 +452,53 @@
     "count": 1,
     "name": "(L) Nullifier",
     "category": [
-      "Gadgets"
+      "Light Gadgets"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "(ALL) Pyro Grenade ",
+    "name": "(ALL) Pyro Grenade",
     "category": [
-      "Gadgets"
+      "Combined Items",
+      "Light Gadgets",
+      "Medium Gadgets",
+      "Heavy Gadgets"
     ],
-    "requires": "not class_specific_items",
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(L) Pyro Grenade",
+    "category": [
+      "Split Items",
+      "Light Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(M) Pyro Grenade",
+    "category": [
+      "Split Items",
+      "Medium Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(H) Pyro Grenade",
+    "category": [
+      "Split Items",
+      "Heavy Gadgets"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "(L) Tracking Dart",
     "category": [
-      "Gadgets"
+      "Light Gadgets"
     ],
     "progression": true
   },
@@ -476,7 +506,37 @@
     "count": 1,
     "name": "(ALL) Gas Grenade",
     "category": [
-      "Gadgets"
+      "Combined Items",
+      "Light Gadgets",
+      "Medium Gadgets",
+      "Heavy Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(L) Gas Grenade",
+    "category": [
+      "Split Items",
+      "Light Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(M) Gas Grenade",
+    "category": [
+      "Split Items",
+      "Medium Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(H) Gas Grenade",
+    "category": [
+      "Split Items",
+      "Heavy Gadgets"
     ],
     "useful": true
   },
@@ -484,7 +544,37 @@
     "count": 1,
     "name": "(ALL) Goo Grenade",
     "category": [
-      "Gadgets"
+      "Combined Items",
+      "Light Gadgets",
+      "Medium Gadgets",
+      "Heavy Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(L) Goo Grenade",
+    "category": [
+      "Split Items",
+      "Light Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(M) Goo Grenade",
+    "category": [
+      "Split Items",
+      "Medium Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(H) Goo Grenade",
+    "category": [
+      "Split Items",
+      "Heavy Gadgets"
     ],
     "useful": true
   },
@@ -492,7 +582,7 @@
     "count": 1,
     "name": "(L) H+ Infuser",
     "category": [
-      "Gadgets"
+      "Light Gadgets"
     ],
     "progression": true
   },
@@ -500,15 +590,37 @@
     "count": 1,
     "name": "(ALL) Flashbang",
     "category": [
-      "Gadgets"
+      "Combined Items",
+      "Light Gadgets",
+      "Medium Gadgets",
+      "Heavy Gadgets"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "(ALL) Smoke Grenade",
+    "name": "(L) Flashbang",
     "category": [
-      "Gadgets"
+      "Split Items",
+      "Light Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(M) Flashbang",
+    "category": [
+      "Split Items",
+      "Medium Gadgets"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(H) Flashbang",
+    "category": [
+      "Split Items",
+      "Heavy Gadgets"
     ],
     "progression": true
   },
@@ -516,7 +628,75 @@
     "count": 1,
     "name": "(ALL) Frag Grenade",
     "category": [
-      "Gadgets"
+      "Combined Items",
+      "Light Gadgets",
+      "Medium Gadgets",
+      "Heavy Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(L) Frag Grenade",
+    "category": [
+      "Split Items",
+      "Light Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(M) Frag Grenade",
+    "category": [
+      "Split Items",
+      "Medium Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(H) Frag Grenade",
+    "category": [
+      "Split Items",
+      "Heavy Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(ALL) Smoke Grenade",
+    "category": [
+      "Combined Items",
+      "Light Gadgets",
+      "Medium Gadgets",
+      "Heavy Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(L) Smoke Grenade",
+    "category": [
+      "Split Items",
+      "Light Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(M) Smoke Grenade",
+    "category": [
+      "Split Items",
+      "Medium Gadgets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "(H) Smoke Grenade",
+    "category": [
+      "Split Items",
+      "Heavy Gadgets"
     ],
     "useful": true
   },
@@ -524,7 +704,7 @@
     "count": 1,
     "name": "(L) Gateway",
     "category": [
-      "Gadgets"
+      "Light Gadgets"
     ],
     "progression": true
   },
@@ -532,7 +712,7 @@
     "count": 1,
     "name": "(L) Gravity Vortex",
     "category": [
-      "Gadgets"
+      "Light Gadgets"
     ],
     "progression": true
   },
@@ -540,7 +720,7 @@
     "count": 1,
     "name": "(M) Defibrillator",
     "category": [
-      "Gadgets"
+      "Medium Gadgets"
     ],
     "progression": true
   },
@@ -548,7 +728,7 @@
     "count": 1,
     "name": "(M) Jump Pad",
     "category": [
-      "Gadgets"
+      "Medium Gadgets"
     ],
     "progression": true
   },
@@ -556,7 +736,7 @@
     "count": 1,
     "name": "(M) Glitch Trap",
     "category": [
-      "Gadgets"
+      "Medium Gadgets"
     ],
     "progression": true
   },
@@ -564,7 +744,7 @@
     "count": 1,
     "name": "(M) APS Turret",
     "category": [
-      "Gadgets"
+      "Medium Gadgets"
     ],
     "progression": true
   },
@@ -572,7 +752,7 @@
     "count": 1,
     "name": "(M) Data Reshaper",
     "category": [
-      "Gadgets"
+      "Medium Gadgets"
     ],
     "progression": true
   },
@@ -580,7 +760,7 @@
     "count": 1,
     "name": "(M) Zipline",
     "category": [
-      "Gadgets"
+      "Medium Gadgets"
     ],
     "progression": true
   },
@@ -588,7 +768,26 @@
     "count": 1,
     "name": "(M, H) Explosive Mine",
     "category": [
-      "Gadgets"
+      "Medium Gadgets",
+      "Combined Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(M) Explosive Mine",
+    "category": [
+      "Medium Gadgets",
+      "Split Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(H) Explosive Mine",
+    "category": [
+      "Heavy Gadgets",
+      "Split Items"
     ],
     "progression": true
   },
@@ -596,7 +795,26 @@
     "count": 1,
     "name": "(M, H) Proximity Sensor",
     "category": [
-      "Gadgets"
+      "Medium Gadgets",
+      "Combined Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(M) Proximity Sensor",
+    "category": [
+      "Medium Gadgets",
+      "Split Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(H) Proximity Sensor",
+    "category": [
+      "Heavy Gadgets",
+      "Split Items"
     ],
     "progression": true
   },
@@ -604,7 +822,7 @@
     "count": 1,
     "name": "(M) Breach Drill",
     "category": [
-      "Gadgets"
+      "Medium Gadgets"
     ],
     "progression": true
   },
@@ -612,7 +830,7 @@
     "count": 1,
     "name": "(M) Gas Mine",
     "category": [
-      "Gadgets"
+      "Medium Gadgets"
     ],
     "progression": true
   },
@@ -620,7 +838,7 @@
     "count": 1,
     "name": "(H) Healing Emitter",
     "category": [
-      "Gadgets"
+      "Medium Gadgets"
     ],
     "progression": true
   },
@@ -628,7 +846,7 @@
     "count": 1,
     "name": "(H) Dome Shield",
     "category": [
-      "Gadgets"
+      "Heavy Gadgets"
     ],
     "progression": true
   },
@@ -636,7 +854,7 @@
     "count": 1,
     "name": "(H) RPG-7",
     "category": [
-      "Gadgets"
+      "Heavy Gadgets"
     ],
     "progression": true
   },
@@ -644,7 +862,7 @@
     "count": 1,
     "name": "(H) Lockbolt",
     "category": [
-      "Gadgets"
+      "Heavy Gadgets"
     ],
     "progression": true
   },
@@ -652,7 +870,7 @@
     "count": 1,
     "name": "(H) C4",
     "category": [
-      "Gadgets"
+      "Heavy Gadgets"
     ],
     "progression": true
   },
@@ -660,20 +878,24 @@
     "count": 1,
     "name": "(H) Barricade",
     "category": [
-      "Gadgets"
+      "Heavy Gadgets"
     ],
     "progression": true
   },
   {
     "count": 1,
     "name": "(H) Pyro Mine",
-    "category": [],
+    "category": [
+      "Heavy Gadgets"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "(H) Anit-Gravity Cube",
-    "category": [],
+    "category": [
+      "Heavy Gadgets"
+    ],
     "progression": true
   }
 ]

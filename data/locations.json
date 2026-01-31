@@ -1,12 +1,12 @@
 [
   {
-    "victory": true,
-    "name": "Win 24 matches with unique weapons",
     "region": "End Game",
+    "victory": true,
+    "name": "Win with Guns",
     "category": [
       "-GOAL-"
     ],
-    "requires": "|@Class:3| AND |Unique Win:24|"
+    "requires": "|@Class:3| AND |Unique Win:{WinsRequired()}|"
   },
   {
     "region": "Start Game",
@@ -957,7 +957,7 @@
     "category": [
       "Basics"
     ],
-    "requires": "|(ALL) Flashbang| OR |(M) Breach Drill|"
+    "requires": "|(ALL) Flashbang| OR |(L) Flashbang| OR |(M) Flashbang| OR |(H) Flashbang| OR |(M) Breach Drill|"
   },
   {
     "name": "Light goo on fire",

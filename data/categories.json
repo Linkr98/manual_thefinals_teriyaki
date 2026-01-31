@@ -1,1 +1,12 @@
-{}
+{
+    "Split Items":{
+        "hidden": true,
+        "yaml_option": ["class_specific_items"]
+    },
+    
+    "Combined Items":{
+        "hidden": true,
+        "yaml_option": ["!class_specific_items"]
+    }
+
+}

@@ -3,37 +3,56 @@
   "game": "TheFinals",
   "creator": "Teriyaki",
   "filler_item_name": "Fans",
-  "starting_items": [   {
-      "item_categories": ["Class"],
+  "starting_items": [
+    {
+      "item_categories": [
+        "Class"
+      ],
       "random": 1
     },
     {
-      "item_categories": ["Light Weapons"],
+      "item_categories": [
+        "Light Weapons"
+      ],
       "random": 1
     },
     {
-      "item_categories": ["Medium Weapons"],
+      "item_categories": [
+        "Medium Weapons"
+      ],
       "random": 1
     },
     {
-      "item_categories": ["Heavy Weapons"],
+      "item_categories": [
+        "Heavy Weapons"
+      ],
       "random": 1
     },
     {
-      "item_categories": ["Light Specializations"],
+      "item_categories": [
+        "Light Specializations"
+      ],
       "random": 1
     },
     {
-      "item_categories": ["Medium Specializations"],
+      "item_categories": [
+        "Medium Specializations"
+      ],
       "random": 1
     },
     {
-      "item_categories": ["Heavy Specializations"],
+      "item_categories": [
+        "Heavy Specializations"
+      ],
       "random": 1
     },
     {
-      "item_categories": ["Gadgets"],
+      "item_categories": [
+        "Light Gadgets",
+        "Medium Gadgets",
+        "Heavy Gadgets"
+      ],
       "random": 3
     }
-    ]
+  ]
 }
