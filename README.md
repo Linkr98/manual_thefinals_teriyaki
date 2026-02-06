@@ -69,15 +69,13 @@ Items are the Ability to use:
 
 YAML
 
-You can change the number of weapons you need to win with to Goal
+You can change the number of weapons from each class you need to win with to Goal
 
 You can decide weather items that exist on maniple classes (i.e. Frag Grenade) needs 1 ore multiple items to unlock for all classes
 
 You can toggle weather Barrels that spawn around the map need to be unlocked
 
-&nbsp;	**Note**: If off you will get an "All Barrels" Item in the "Barrels Disabled" Category. This means you have all Barrels and that their checks are disabled. This will be changed to improve clarity in future updates
-
-
+ 	
 
 If you find any issues with Logic, Spelling, or anything else please put it in the GitHub issues or the discord thread
 

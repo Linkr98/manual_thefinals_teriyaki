@@ -11,44 +11,89 @@
       "random": 1
     },
     {
+      "if_previous_item": [
+        "Light Class"
+      ],
       "item_categories": [
         "Light Weapons"
       ],
       "random": 1
     },
     {
+      "if_previous_item": [
+        "Medium Class"
+      ],
       "item_categories": [
         "Medium Weapons"
       ],
       "random": 1
     },
     {
+      "if_previous_item": [
+        "Heavy Class"
+      ],
       "item_categories": [
         "Heavy Weapons"
       ],
       "random": 1
     },
     {
+      "if_previous_item": [
+        "Light Class"
+      ],
       "item_categories": [
         "Light Specializations"
       ],
       "random": 1
     },
     {
+      "if_previous_item": [
+        "Medium Class"
+      ],
       "item_categories": [
         "Medium Specializations"
       ],
       "random": 1
     },
     {
+      "if_previous_item": [
+        "Heavy Class"
+      ],
       "item_categories": [
         "Heavy Specializations"
       ],
       "random": 1
     },
     {
+      "if_previous_item": [
+        "Light Class"
+      ],
       "item_categories": [
-        "Barrels Disabled"
+        "Light Gadgets"
+      ],
+      "random": 1
+    },
+    {
+      "if_previous_item": [
+        "Medium Class"
+      ],
+      "item_categories": [
+        "Medium Gadgets"
+      ],
+      "random": 1
+    },
+    {
+      "if_previous_item": [
+        "Heavy Class"
+      ],
+      "item_categories": [
+        "Heavy Gadgets"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Barrel Checks Disabled"
       ]
     }
   ]

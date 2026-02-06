@@ -1,4 +1,61 @@
 {
+    "-Light Weapon Wins-": {
+        "hidden": false
+    },
+    "-Medium Weapon Wins-": {
+        "hidden": false
+    },
+    "-Heavy Weapon Wins-": {
+        "hidden": false
+    },
+    "Light Explosive Items": {
+        "hidden": true
+    },
+    "Medium Explosive Items": {
+        "hidden": true
+    },
+    "Heavy Explosive Items": {
+        "hidden": true
+    },
+    "All Explosive Items": {
+        "hidden": true
+    },
+    "Light Destructive Items": {
+        "hidden": true
+    },
+    "Medium Destructive Items": {
+        "hidden": true
+    },
+    "Heavy Destructive Items": {
+        "hidden": true
+    },
+    "All Destructive Items": {
+        "hidden": true
+    },
+    "Light Fire Items": {
+        "hidden": true
+    },
+    "Medium Fire Items": {
+        "hidden": true
+    },
+    "Heavy Fire Items": {
+        "hidden": true
+    },
+    "All Fire Items": {
+        "hidden": true
+    },
+    "Light Gas Items": {
+        "hidden": true
+    },
+    "Medium Gas Items": {
+        "hidden": true
+    },
+    "Heavy Gas Items": {
+        "hidden": true
+    },
+    "All Gas Items": {
+        "hidden": true
+    },
     "Split Items": {
         "hidden": true,
         "yaml_option": [
@@ -13,12 +70,13 @@
     },
     "Barrels": {
         "yaml_option": [
-            "include_barrels"
+            "barrelsanity"
         ]
     },
-    "Barrels Disabled": {
+    "Barrel Checks Disabled": {
         "yaml_option": [
-            "!include_barrels"
+            "!barrelsanity"
         ]
     }
 }
+

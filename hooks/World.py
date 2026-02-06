@@ -17,6 +17,26 @@ from ..Helpers import is_option_enabled, get_option_value, format_state_prog_ite
 # calling logging.info("message") anywhere below in this file will output the message to both console and log file
 import logging
 
+WIN_MCGUFFIN_ITEM = "Win McGuffin"
+LIGHT_WEAPON_WINS_CATEGORY = "-Light Weapon Wins-"
+MEDIUM_WEAPON_WINS_CATEGORY = "-Medium Weapon Wins-"
+HEAVY_WEAPON_WINS_CATEGORY = "-Heavy Weapon Wins-"
+
+def _get_weapon_win_locations_by_class(world: World, multiworld: MultiWorld, player: int) -> dict[str, list[ManualLocation]]:
+    unfilled = {loc.name: loc for loc in multiworld.get_unfilled_locations(player=player)}
+
+    def _names_for_category(cat: str) -> list[str]:
+        return world.location_name_groups.get(cat, [])
+
+    def _locs_for_category(cat: str) -> list[ManualLocation]:
+        return [unfilled[name] for name in _names_for_category(cat) if name in unfilled]
+
+    return {
+        "light": _locs_for_category(LIGHT_WEAPON_WINS_CATEGORY),
+        "medium": _locs_for_category(MEDIUM_WEAPON_WINS_CATEGORY),
+        "heavy": _locs_for_category(HEAVY_WEAPON_WINS_CATEGORY),
+    }
+
 ########################################################################################
 ## Order of method calls when the world generates:
 ##    1. create_regions - Creates regions and locations
@@ -62,6 +82,14 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 #       will create 5 items that are the "useful trap" class
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
+    per_class_total = (
+        int(get_option_value(multiworld, player, "light_win_mcguffins")) +
+        int(get_option_value(multiworld, player, "medium_win_mcguffins")) +
+        int(get_option_value(multiworld, player, "heavy_win_mcguffins"))
+    )
+    unassigned = int(get_option_value(multiworld, player, "unassigned_win_mcguffins"))
+    total = max(0, per_class_total + unassigned)
+    item_config[WIN_MCGUFFIN_ITEM] = total
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
@@ -130,7 +158,53 @@ def after_create_item(item: ManualItem, world: World, multiworld: MultiWorld, pl
 
 # This method is run towards the end of pre-generation, before the place_item options have been handled and before AP generation occurs
 def before_generate_basic(world: World, multiworld: MultiWorld, player: int):
-    pass
+    total = (
+        int(get_option_value(multiworld, player, "light_win_mcguffins")) +
+        int(get_option_value(multiworld, player, "medium_win_mcguffins")) +
+        int(get_option_value(multiworld, player, "heavy_win_mcguffins")) +
+        int(get_option_value(multiworld, player, "unassigned_win_mcguffins"))
+    )
+    if total <= 0:
+        return
+
+    per_class = {
+        "light": int(get_option_value(multiworld, player, "light_win_mcguffins")),
+        "medium": int(get_option_value(multiworld, player, "medium_win_mcguffins")),
+        "heavy": int(get_option_value(multiworld, player, "heavy_win_mcguffins")),
+    }
+
+    locations_by_class = _get_weapon_win_locations_by_class(world, multiworld, player)
+    if not any(locations_by_class.values()):
+        logging.warning("No weapon win locations available to place Win McGuffins.")
+        return
+
+    mcguffins = [item for item in multiworld.itempool if item.player == player and item.name == WIN_MCGUFFIN_ITEM]
+    if not mcguffins:
+        logging.warning("No Win McGuffin items found in the pool to place.")
+        return
+
+    available_total = min(total, len(mcguffins))
+    if len(mcguffins) < total:
+        logging.warning(f"Requested {total} Win McGuffins but only {len(mcguffins)} exist in the pool.")
+
+    remaining = available_total
+    for class_key in ["light", "medium", "heavy"]:
+        available_locs = locations_by_class[class_key]
+        if per_class[class_key] > len(available_locs):
+            logging.warning(f"Requested {per_class[class_key]} {class_key} placements but only {len(available_locs)} {class_key} weapon win locations exist.")
+
+        count = min(per_class[class_key], len(available_locs), remaining)
+        if count <= 0:
+            continue
+
+        world.random.shuffle(available_locs)
+        for loc in available_locs[:count]:
+            if remaining <= 0 or not mcguffins:
+                break
+            item = mcguffins.pop()
+            loc.place_locked_item(item)
+            multiworld.itempool.remove(item)
+            remaining -= 1
 
 # This method is run at the very end of pre-generation, once the place_item options have been handled and before AP generation occurs
 def after_generate_basic(world: World, multiworld: MultiWorld, player: int):

@@ -9,6 +9,6 @@
   "End Game": {
     "connects_to": [],
     "starting": false,
-    "requires": "|@Class:3| AND |Unique Win:{WinsRequired()}|"
+    "requires": "|@Class:3| AND |Win McGuffin:{WinsRequired()}|"
   }
 }

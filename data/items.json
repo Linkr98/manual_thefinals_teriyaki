@@ -2,268 +2,205 @@
   {
     "count": 1,
     "name": "Light Class",
-    "category": [
-      "Class"
-    ],
+    "category": "Class",
     "early": true,
     "progression": true
   },
   {
     "count": 1,
     "name": "Medium Class",
-    "category": [
-      "Class"
-    ],
+    "category": "Class",
     "early": true,
     "progression": true
   },
   {
     "count": 1,
     "name": "Heavy Class",
-    "category": [
-      "Class"
-    ],
+    "category": "Class",
     "early": true,
     "progression": true
   },
   {
     "count": 1,
     "name": "Grappling Hook",
-    "category": [
-      "Light Specializations"
-    ],
+    "category": "Light Specializations",
     "progression": true
   },
   {
     "count": 1,
     "name": "Cloaking Device",
-    "category": [
-      "Light Specializations"
-    ],
+    "category": "Light Specializations",
     "progression": true
   },
   {
     "count": 1,
     "name": "Evasive Dash",
-    "category": [
-      "Light Specializations"
-    ],
+    "category": "Light Specializations",
     "progression": true
   },
   {
     "count": 1,
     "name": "Healing Beam",
-    "category": [
-      "Medium Specializations"
-    ],
+    "category": "Medium Specializations",
     "progression": true
   },
   {
     "count": 1,
     "name": "Guardian Turret",
-    "category": [
-      "Medium Specializations"
-    ],
+    "category": "Medium Specializations",
     "progression": true
   },
   {
     "count": 1,
     "name": "Dematerializer",
-    "category": [
-      "Medium Specializations"
-    ],
+    "category": "Medium Specializations",
     "progression": true
   },
   {
     "count": 1,
     "name": "Mesh Shield",
-    "category": [
-      "Heavy Specializations"
-    ],
+    "category": "Heavy Specializations",
     "progression": true
   },
   {
     "count": 1,
-    "name": "Charge 'N' Slam",
-    "category": [
-      "Heavy Specializations"
-    ],
+    "name": "Charge \u0027N\u0027 Slam",
+    "category": "Heavy Specializations",
     "progression": true
   },
   {
     "count": 1,
     "name": "Winch Claw",
-    "category": [
-      "Heavy Specializations"
-    ],
+    "category": "Heavy Specializations",
     "progression": true
   },
   {
     "count": 1,
     "name": "Goo Gun",
-    "category": [
-      "Heavy Specializations"
-    ],
+    "category": "Heavy Specializations",
     "progression": true
   },
   {
     "count": 1,
     "name": "SR-84",
-    "category": [
-      "Light Weapons"
-    ],
+    "category": "Light Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "Throwing Knives",
-    "category": [
-      "Light Weapons"
-    ],
+    "category": "Light Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "M11",
-    "category": [
-      "Light Weapons"
-    ],
+    "category": "Light Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "LH1",
-    "category": [
-      "Light Weapons"
-    ],
+    "category": "Light Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "M26 Matter",
-    "category": [
-      "Light Weapons"
-    ],
+    "category": "Light Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "SH1900",
-    "category": [
-      "Light Weapons"
-    ],
+    "category": "Light Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "ARN-220",
-    "category": [
-      "Light Weapons"
-    ],
+    "category": "Light Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "Dagger",
-    "category": [
-      "Light Weapons"
-    ],
+    "category": "Light Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "93R",
-    "category": [
-      "Light Weapons"
-    ],
+    "category": "Light Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "Sword",
-    "category": [
-      "Light Weapons"
-    ],
+    "category": "Light Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "Recurve Bow",
-    "category": [
-      "Light Weapons"
-    ],
+    "category": "Light Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "V9S",
-    "category": [
-      "Light Weapons"
-    ],
+    "category": "Light Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "XP-54",
-    "category": [
-      "Light Weapons"
-    ],
+    "category": "Light Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "AKM",
-    "category": [
-      "Medium Weapons"
-    ],
+    "category": "Medium Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "Model 1887",
-    "category": [
-      "Medium Weapons"
-    ],
+    "category": "Medium Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "Famas",
-    "category": [
-      "Medium Weapons"
-    ],
+    "category": "Medium Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "Dual Blades",
-    "category": [
-      "Medium Weapons"
-    ],
+    "category": "Medium Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "Cerberus 12GA",
     "category": [
-      "Medium Weapons"
+      "Medium Weapons",
+      "Medium Fire Items"
     ],
     "progression": true
   },
   {
     "count": 1,
     "name": "CB-01 Repeater",
-    "category": [
-      "Medium Weapons"
-    ],
+    "category": "Medium Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "P90",
-    "category": [
-      "Medium Weapons"
-    ],
+    "category": "Medium Weapons",
     "progression": true
   },
   {
@@ -277,80 +214,63 @@
   {
     "count": 1,
     "name": "Riot Shield",
-    "category": [
-      "Medium Weapons"
-    ],
+    "category": "Medium Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "Pike-556",
-    "category": [
-      "Medium Weapons"
-    ],
+    "category": "Medium Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "R.357",
-    "category": [
-      "Medium Weapons"
-    ],
+    "category": "Medium Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "Fcar",
-    "category": [
-      "Medium Weapons"
-    ],
+    "category": "Medium Weapons",
     "progression": true
   },
   {
     "count": 37,
-    "name": "Unique Win",
-    "category": [
-      "-Unique Weapon Wins-"
-    ],
+    "name": "Win McGuffin",
+    "category": "-Unique Weapon Wins-",
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": ".50 Akimbo",
-    "category": [
-      "Heavy Weapons"
-    ],
+    "category": "Heavy Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "M134 Minigun",
-    "category": [
-      "Heavy Weapons"
-    ],
+    "category": "Heavy Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "Shak-50",
-    "category": [
-      "Heavy Weapons"
-    ],
+    "category": "Heavy Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "KS-23",
-    "category": [
-      "Heavy Weapons"
-    ],
+    "category": "Heavy Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "Flamethrower",
     "category": [
-      "Heavy Weapons"
+      "Heavy Weapons",
+      "Heavy Fire Items"
     ],
     "progression": true
   },
@@ -358,104 +278,88 @@
     "count": 1,
     "name": "MGL32",
     "category": [
-      "Heavy Weapons"
+      "Heavy Weapons",
+      "Heavy Explosive Items"
     ],
     "progression": true
   },
   {
     "count": 1,
     "name": "BFR Titan",
-    "category": [
-      "Heavy Weapons"
-    ],
+    "category": "Heavy Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "Spear",
-    "category": [
-      "Heavy Weapons"
-    ],
+    "category": "Heavy Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "Sledgehammer",
     "category": [
-      "Heavy Weapons"
+      "Heavy Weapons",
+      "Heavy Destructive Items"
     ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Lewis Gun",
-    "category": [
-      "Heavy Weapons"
-    ],
+    "category": "Heavy Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "SA1216",
-    "category": [
-      "Heavy Weapons"
-    ],
+    "category": "Heavy Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "M60",
-    "category": [
-      "Heavy Weapons"
-    ],
+    "category": "Heavy Weapons",
     "progression": true
   },
   {
     "count": 1,
     "name": "(L) Sonar Grenade",
-    "category": [
-      "Light Gadgets"
-    ],
+    "category": "Light Gadgets",
     "progression": true
   },
   {
     "count": 1,
     "name": "(L) Thermal Bore",
-    "category": [
-      "Light Gadgets"
-    ],
+    "category": "Light Gadgets",
     "progression": true
   },
   {
     "count": 1,
     "name": "(L) Vanishing Bomb",
-    "category": [
-      "Light Gadgets"
-    ],
+    "category": "Light Gadgets",
     "progression": true
   },
   {
     "count": 1,
     "name": "(L) Breach Charge",
     "category": [
-      "Light Gadgets"
+      "Light Gadgets",
+      "Light Explosive Items",
+      "Light Destructive Items"
     ],
     "progression": true
   },
   {
     "count": 1,
     "name": "(L) Glitch Grenade",
-    "category": [
-      "Light Gadgets"
-    ],
+    "category": "Light Gadgets",
     "progression": true
   },
   {
     "count": 1,
     "name": "(L) Nullifier",
-    "category": [
-      "Light Gadgets"
-    ],
+    "category": "Light Gadgets",
     "progression": true
   },
   {
@@ -465,7 +369,8 @@
       "Combined Items",
       "Light Gadgets",
       "Medium Gadgets",
-      "Heavy Gadgets"
+      "Heavy Gadgets",
+      "All Fire Items"
     ],
     "progression": true
   },
@@ -474,7 +379,8 @@
     "name": "(L) Pyro Grenade",
     "category": [
       "Split Items",
-      "Light Gadgets"
+      "Light Gadgets",
+      "Light Fire Items"
     ],
     "progression": true
   },
@@ -483,7 +389,8 @@
     "name": "(M) Pyro Grenade",
     "category": [
       "Split Items",
-      "Medium Gadgets"
+      "Medium Gadgets",
+      "Medium Fire Items"
     ],
     "progression": true
   },
@@ -499,9 +406,7 @@
   {
     "count": 1,
     "name": "(L) Tracking Dart",
-    "category": [
-      "Light Gadgets"
-    ],
+    "category": "Light Gadgets",
     "progression": true
   },
   {
@@ -511,7 +416,8 @@
       "Combined Items",
       "Light Gadgets",
       "Medium Gadgets",
-      "Heavy Gadgets"
+      "Heavy Gadgets",
+      "All Gas Items"
     ],
     "progression": true
   },
@@ -520,7 +426,8 @@
     "name": "(L) Gas Grenade",
     "category": [
       "Split Items",
-      "Light Gadgets"
+      "Light Gadgets",
+      "Light Gas Items"
     ],
     "progression": true
   },
@@ -529,7 +436,8 @@
     "name": "(M) Gas Grenade",
     "category": [
       "Split Items",
-      "Medium Gadgets"
+      "Medium Gadgets",
+      "Medium Gas Items"
     ],
     "progression": true
   },
@@ -538,7 +446,8 @@
     "name": "(H) Gas Grenade",
     "category": [
       "Split Items",
-      "Heavy Gadgets"
+      "Heavy Gadgets",
+      "Heavy Gas Items"
     ],
     "progression": true
   },
@@ -583,9 +492,7 @@
   {
     "count": 1,
     "name": "(L) H+ Infuser",
-    "category": [
-      "Light Gadgets"
-    ],
+    "category": "Light Gadgets",
     "progression": true
   },
   {
@@ -633,7 +540,8 @@
       "Combined Items",
       "Light Gadgets",
       "Medium Gadgets",
-      "Heavy Gadgets"
+      "Heavy Gadgets",
+      "All Explosive Items"
     ],
     "progression": true
   },
@@ -642,7 +550,8 @@
     "name": "(L) Frag Grenade",
     "category": [
       "Split Items",
-      "Light Gadgets"
+      "Light Gadgets",
+      "Light Explosive Items"
     ],
     "progression": true
   },
@@ -651,7 +560,8 @@
     "name": "(M) Frag Grenade",
     "category": [
       "Split Items",
-      "Medium Gadgets"
+      "Medium Gadgets",
+      "Medium Explosive Items"
     ],
     "progression": true
   },
@@ -660,7 +570,8 @@
     "name": "(H) Frag Grenade",
     "category": [
       "Split Items",
-      "Heavy Gadgets"
+      "Heavy Gadgets",
+      "Heavy Explosive Items"
     ],
     "progression": true
   },
@@ -705,65 +616,49 @@
   {
     "count": 1,
     "name": "(L) Gateway",
-    "category": [
-      "Light Gadgets"
-    ],
+    "category": "Light Gadgets",
     "progression": true
   },
   {
     "count": 1,
     "name": "(L) Gravity Vortex",
-    "category": [
-      "Light Gadgets"
-    ],
+    "category": "Light Gadgets",
     "progression": true
   },
   {
     "count": 1,
     "name": "(M) Defibrillator",
-    "category": [
-      "Medium Gadgets"
-    ],
+    "category": "Medium Gadgets",
     "progression": true
   },
   {
     "count": 1,
     "name": "(M) Jump Pad",
-    "category": [
-      "Medium Gadgets"
-    ],
+    "category": "Medium Gadgets",
     "progression": true
   },
   {
     "count": 1,
     "name": "(M) Glitch Trap",
-    "category": [
-      "Medium Gadgets"
-    ],
+    "category": "Medium Gadgets",
     "progression": true
   },
   {
     "count": 1,
     "name": "(M) APS Turret",
-    "category": [
-      "Medium Gadgets"
-    ],
+    "category": "Medium Gadgets",
     "progression": true
   },
   {
     "count": 1,
     "name": "(M) Data Reshaper",
-    "category": [
-      "Medium Gadgets"
-    ],
+    "category": "Medium Gadgets",
     "progression": true
   },
   {
     "count": 1,
     "name": "(M) Zipline",
-    "category": [
-      "Medium Gadgets"
-    ],
+    "category": "Medium Gadgets",
     "progression": true
   },
   {
@@ -771,7 +666,11 @@
     "name": "(M, H) Explosive Mine",
     "category": [
       "Medium Gadgets",
-      "Combined Items"
+      "Combined Items",
+      "Medium Explosive Items",
+      "Heavy Explosive Items",
+      "Medium Destructive Items",
+      "Heavy Destructive Items"
     ],
     "progression": true
   },
@@ -780,7 +679,9 @@
     "name": "(M) Explosive Mine",
     "category": [
       "Medium Gadgets",
-      "Split Items"
+      "Split Items",
+      "Medium Explosive Items",
+      "Medium Destructive Items"
     ],
     "progression": true
   },
@@ -789,7 +690,9 @@
     "name": "(H) Explosive Mine",
     "category": [
       "Heavy Gadgets",
-      "Split Items"
+      "Split Items",
+      "Heavy Explosive Items",
+      "Heavy Destructive Items"
     ],
     "progression": true
   },
@@ -824,7 +727,8 @@
     "count": 1,
     "name": "(M) Breach Drill",
     "category": [
-      "Medium Gadgets"
+      "Medium Gadgets",
+      "Medium Destructive Items"
     ],
     "progression": true
   },
@@ -832,79 +736,79 @@
     "count": 1,
     "name": "(M) Gas Mine",
     "category": [
-      "Medium Gadgets"
+      "Medium Gadgets",
+      "Medium Gas Items"
     ],
     "progression": true
   },
   {
     "count": 1,
     "name": "(H) Healing Emitter",
-    "category": [
-      "Medium Gadgets"
-    ],
+    "category": "Medium Gadgets",
     "progression": true
   },
   {
     "count": 1,
     "name": "(H) Dome Shield",
-    "category": [
-      "Heavy Gadgets"
-    ],
+    "category": "Heavy Gadgets",
     "progression": true
   },
   {
     "count": 1,
     "name": "(H) RPG-7",
     "category": [
-      "Heavy Gadgets"
+      "Heavy Gadgets",
+      "Heavy Explosive Items",
+      "Heavy Destructive Items"
     ],
     "progression": true
   },
   {
     "count": 1,
     "name": "(H) Lockbolt",
-    "category": [
-      "Heavy Gadgets"
-    ],
+    "category": "Heavy Gadgets",
     "progression": true
   },
   {
     "count": 1,
     "name": "(H) C4",
     "category": [
-      "Heavy Gadgets"
+      "Heavy Gadgets",
+      "Heavy Explosive Items",
+      "Heavy Destructive Items"
     ],
     "progression": true
   },
   {
     "count": 1,
     "name": "(H) Barricade",
-    "category": [
-      "Heavy Gadgets"
-    ],
+    "category": "Heavy Gadgets",
     "progression": true
   },
   {
     "count": 1,
     "name": "(H) Pyro Mine",
     "category": [
-      "Heavy Gadgets"
+      "Heavy Gadgets",
+      "Heavy Fire Items"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "(H) Anit-Gravity Cube",
-    "category": [
-      "Heavy Gadgets"
-    ],
+    "name": "(H) Anti-Gravity Cube",
+    "category": "Heavy Gadgets",
     "progression": true
   },
   {
     "count": 1,
     "name": "All Barrels",
     "category": [
-      "Barrels Disabled"
+      "Barrel Checks Disabled",
+      "All Fire Items",
+      "All Gas Items",
+      "All Explosive Items",
+      "All Destructive Items"
     ],
     "progression_skip_balancing": true
   },
@@ -912,7 +816,9 @@
     "count": 1,
     "name": "Explosive Canister",
     "category": [
-      "Barrels"
+      "Barrels",
+      "All Explosive Items",
+      "All Destructive Items"
     ],
     "progression": true
   },
@@ -920,48 +826,42 @@
     "count": 1,
     "name": "Gas Canister",
     "category": [
-      "Barrels"
+      "Barrels",
+      "All Gas Items"
     ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Powder (Smoke) Canister",
-    "category": [
-      "Barrels"
-    ],
+    "category": "Barrels",
     "progression": true
   },
   {
     "count": 1,
     "name": "Glitch Barrel",
-    "category": [
-      "Barrels"
-    ],
+    "category": "Barrels",
     "progression": true
   },
   {
     "count": 1,
     "name": "Goo Barrel",
-    "category": [
-      "Barrels"
-    ],
+    "category": "Barrels",
     "progression": true
   },
   {
     "count": 1,
     "name": "Oil (Fire) Barrel",
     "category": [
-      "Barrels"
+      "Barrels",
+      "All Fire Items"
     ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Healing Barrel",
-    "category": [
-      "Barrels"
-    ],
+    "category": "Barrels",
     "progression": true
   }
 ]

@@ -2,12 +2,44 @@
     "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
     "user": {
         "wins_required": {
-            "display_name": "Unique Wins Needed",
-            "description": "Number of unique weapon wins required for the goal.",
+            "display_name": "Win McGuffins Needed",
+            "description": "Number of Win McGuffins required for the goal. You also need to have all 3 classes unlocked to goal.",
             "type": "Range",
             "range_start": 1,
             "range_end": 37,
-            "default": 15
+            "default": 12
+        },
+        "light_win_mcguffins": {
+            "display_name": "Light Weapon Win McGuffins",
+            "description": "How many Win McGuffins are placed on Light class weapon win locations.",
+            "type": "Range",
+            "range_start": 0,
+            "range_end": 13,
+            "default": 3
+        },
+        "medium_win_mcguffins": {
+            "display_name": "Medium Weapon Win McGuffins",
+            "description": "How many Win McGuffins are placed on Medium class weapon win locations.",
+            "type": "Range",
+            "range_start": 0,
+            "range_end": 12,
+            "default": 3
+        },
+        "heavy_win_mcguffins": {
+            "display_name": "Heavy Weapon Win McGuffins",
+            "description": "How many Win McGuffins are placed on Heavy class weapon win locations.",
+            "type": "Range",
+            "range_start": 0,
+            "range_end": 12,
+            "default": 3
+        },
+        "unassigned_win_mcguffins": {
+            "display_name": "Unassigned Win McGuffins",
+            "description": "Additional Win McGuffins that are not placed on weapon win locations.",
+            "type": "Range",
+            "range_start": 0,
+            "range_end": 37,
+            "default": 2
         },
         "class_specific_items": {
             "display_name": "Class Specific Items",
@@ -15,8 +47,8 @@
             "type": "Toggle",
             "default": true
         },
-        "include_barrels": {
-            "display_name": "Include Barrels",
+        "barrelsanity": {
+            "display_name": "Barrelsanity",
             "description": "Weather you need checks to use the Barrels arround the map.",
             "type": "Toggle",
             "default": false
