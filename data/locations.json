@@ -44,7 +44,26 @@
         "region": "Start Game",
         "name": "Win a match on Las Vegas Stadium/2032",
         "category": [
-            "Win on Map"
+            "Win on Map",
+            "No Varientsanity"
+        ],
+        "requires": ""
+    },
+    {
+        "region": "Start Game",
+        "name": "Win a match on Las Vegas Stadium",
+        "category": [
+            "Win on Map",
+            "Varientsanity"
+        ],
+        "requires": ""
+    },
+    {
+        "region": "Start Game",
+        "name": "Win a match on Las Vegas 2032",
+        "category": [
+            "Win on Map",
+            "Varientsanity"
         ],
         "requires": ""
     },
@@ -90,7 +109,7 @@
     },
     {
         "region": "Start Game",
-        "name": "Win on Sandstorm Las Vegas",
+        "name": "Win on a Sandstorm Map",
         "category": [
             "Win on Map Variant"
         ],
@@ -116,7 +135,8 @@
         "name": "Win on a map with High Rise Variant",
         "region": "Start Game",
         "category": [
-            "Win on Map Variant"
+            "Win on Map Variant",
+            "Varientsanity"
         ],
         "requires": ""
     },
@@ -340,7 +360,8 @@
         "region": "Start Game",
         "name": "Win on a map with Under Construction Variant",
         "category": [
-            "Win on Map Variant"
+            "Win on Map Variant",
+            "Varientsanity"
         ],
         "requires": ""
     },
@@ -1050,7 +1071,8 @@
         "name": "Win on a Foggy/Stormy map",
         "region": "Start Game",
         "category": [
-            "Win on Map Condition"
+            "Win on Map Condition",
+            "No Varientsanity"
         ],
         "requires": ""
     },
@@ -1285,5 +1307,122 @@
             "Heavy Gadget Wins"
         ],
         "requires": "|(H) Anti-Gravity Cube| AND |Heavy Class|"
+    },
+    {
+        "name": "Win on an Afternoon map.",
+        "region": "Start Game",
+        "category": [
+            "Win on Map Condition",
+            "Varientsanity"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Win on an Heavy Rain map.",
+        "region": "Start Game",
+        "category": [
+            "Win on Map Condition",
+            "Varientsanity"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Win on an Sunset map.",
+        "region": "Start Game",
+        "category": [
+            "Win on Map Condition",
+            "Varientsanity"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Win on an Foggy map.",
+        "region": "Start Game",
+        "category": [
+            "Win on Map Condition",
+            "Varientsanity"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Win on a Stormy map.",
+        "region": "Start Game",
+        "category": [
+            "Win on Map Condition",
+            "Varientsanity"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Win on a Night map.",
+        "region": "Start Game",
+        "category": [
+            "Win on Map Condition",
+            "Varientsanity"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Win on a Sunny map.",
+        "region": "Start Game",
+        "category": [
+            "Win on Map Condition",
+            "Varientsanity"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Win on an Overcast map.",
+        "region": "Start Game",
+        "category": [
+            "Win on Map Condition",
+            "Varientsanity"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Win on a Rainy map.",
+        "region": "Start Game",
+        "category": [
+            "Win on Map Condition",
+            "Varientsanity"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Win on a Evening map.",
+        "region": "Start Game",
+        "category": [
+            "Win on Map Condition",
+            "Varientsanity"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Win on a map with Up Down Left Right.",
+        "region": "Start Game",
+        "category": [
+            "Win on Map Variant",
+            "Varientsanity"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Win on a map with Duck and Cover.",
+        "region": "Start Game",
+        "category": [
+            "Win on Map Variant",
+            "Varientsanity"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Win on a Snowy map.",
+        "region": "Start Game",
+        "category": [
+            "Win on Map Condition",
+            "Varientsanity"
+        ],
+        "requires": ""
     }
 ]

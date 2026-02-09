@@ -6,7 +6,7 @@
             "description": "Number of Win McGuffins required for the goal. You also need to have all 3 classes unlocked to goal.",
             "type": "Range",
             "range_start": 1,
-            "range_end": 37,
+            "range_end": 74,
             "default": 12
         },
         "light_win_mcguffins": {
@@ -50,6 +50,12 @@
         "barrelsanity": {
             "display_name": "Barrelsanity",
             "description": "Weather you need checks to use the Barrels arround the map.",
+            "type": "Toggle",
+            "default": false
+        },
+        "Varientsanity": {
+            "display_name": "Varientsanity",
+            "description": "Adds all the map varients as locations.",
             "type": "Toggle",
             "default": false
         }

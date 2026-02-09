@@ -239,7 +239,7 @@
     "count": 37,
     "name": "Win McGuffin",
     "category": "-Unique Weapon Wins-",
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": 1,
