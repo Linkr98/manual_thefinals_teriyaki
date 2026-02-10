@@ -1134,7 +1134,7 @@
     },
     {
         "region": "Start Game",
-        "name": "Break the bridge in Seoul with a player on it (Teammates Count)",
+        "name": "Break the Seoul Bridge with a Player on it",
         "category": [
             "Basics"
         ],
@@ -1309,7 +1309,7 @@
         "requires": "|(H) Anti-Gravity Cube| AND |Heavy Class|"
     },
     {
-        "name": "Win on an Afternoon map.",
+        "name": "Win on an Afternoon map",
         "region": "Start Game",
         "category": [
             "Win on Map Condition",
@@ -1318,7 +1318,7 @@
         "requires": ""
     },
     {
-        "name": "Win on an Heavy Rain map.",
+        "name": "Win on an Heavy Rain map",
         "region": "Start Game",
         "category": [
             "Win on Map Condition",
@@ -1327,7 +1327,7 @@
         "requires": ""
     },
     {
-        "name": "Win on an Sunset map.",
+        "name": "Win on an Sunset map",
         "region": "Start Game",
         "category": [
             "Win on Map Condition",
@@ -1336,7 +1336,7 @@
         "requires": ""
     },
     {
-        "name": "Win on an Foggy map.",
+        "name": "Win on an Foggy map",
         "region": "Start Game",
         "category": [
             "Win on Map Condition",
@@ -1345,7 +1345,7 @@
         "requires": ""
     },
     {
-        "name": "Win on a Stormy map.",
+        "name": "Win on a Stormy map",
         "region": "Start Game",
         "category": [
             "Win on Map Condition",
@@ -1354,7 +1354,7 @@
         "requires": ""
     },
     {
-        "name": "Win on a Night map.",
+        "name": "Win on an Overcast map",
         "region": "Start Game",
         "category": [
             "Win on Map Condition",
@@ -1363,7 +1363,7 @@
         "requires": ""
     },
     {
-        "name": "Win on a Sunny map.",
+        "name": "Win on a Rainy map",
         "region": "Start Game",
         "category": [
             "Win on Map Condition",
@@ -1372,7 +1372,7 @@
         "requires": ""
     },
     {
-        "name": "Win on an Overcast map.",
+        "name": "Win on a Evening map",
         "region": "Start Game",
         "category": [
             "Win on Map Condition",
@@ -1381,25 +1381,7 @@
         "requires": ""
     },
     {
-        "name": "Win on a Rainy map.",
-        "region": "Start Game",
-        "category": [
-            "Win on Map Condition",
-            "Varientsanity"
-        ],
-        "requires": ""
-    },
-    {
-        "name": "Win on a Evening map.",
-        "region": "Start Game",
-        "category": [
-            "Win on Map Condition",
-            "Varientsanity"
-        ],
-        "requires": ""
-    },
-    {
-        "name": "Win on a map with Up Down Left Right.",
+        "name": "Win on a map with Up Down Left Right",
         "region": "Start Game",
         "category": [
             "Win on Map Variant",
@@ -1408,7 +1390,7 @@
         "requires": ""
     },
     {
-        "name": "Win on a map with Duck and Cover.",
+        "name": "Win on a map with Duck and Cover",
         "region": "Start Game",
         "category": [
             "Win on Map Variant",
@@ -1417,7 +1399,7 @@
         "requires": ""
     },
     {
-        "name": "Win on a Snowy map.",
+        "name": "Win on a Snowy map",
         "region": "Start Game",
         "category": [
             "Win on Map Condition",

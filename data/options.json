@@ -15,7 +15,7 @@
             "type": "Range",
             "range_start": 0,
             "range_end": 13,
-            "default": 3
+            "default": 4
         },
         "medium_win_mcguffins": {
             "display_name": "Medium Weapon Win McGuffins",
@@ -23,7 +23,7 @@
             "type": "Range",
             "range_start": 0,
             "range_end": 12,
-            "default": 3
+            "default": 4
         },
         "heavy_win_mcguffins": {
             "display_name": "Heavy Weapon Win McGuffins",
@@ -31,7 +31,7 @@
             "type": "Range",
             "range_start": 0,
             "range_end": 12,
-            "default": 3
+            "default": 4
         },
         "unassigned_win_mcguffins": {
             "display_name": "Unassigned Win McGuffins",
@@ -39,7 +39,7 @@
             "type": "Range",
             "range_start": 0,
             "range_end": 37,
-            "default": 2
+            "default": 4
         },
         "class_specific_items": {
             "display_name": "Class Specific Items",
