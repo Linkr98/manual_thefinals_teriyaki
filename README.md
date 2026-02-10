@@ -75,7 +75,9 @@ You can decide weather items that exist on maniple classes (i.e. Frag Grenade) n
 
 You can toggle weather Barrels that spawn around the map need to be unlocked
 
- 	
+You can toggle weather ALL map variants and conditions are locations. There are some condition and variant checks with this disabled.
+
+ 
 
 If you find any issues with Logic, Spelling, or anything else please put it in the GitHub issues or the discord thread
 
