@@ -6,7 +6,7 @@
             "description": "Number of Win McGuffins required for the goal. You also need to have all 3 classes unlocked to goal.",
             "type": "Range",
             "range_start": 1,
-            "range_end": 74,
+            "range_end": 50,
             "default": 12
         },
         "light_win_mcguffins": {
@@ -22,7 +22,7 @@
             "description": "How many Win McGuffins are placed on Medium class weapon win locations.",
             "type": "Range",
             "range_start": 0,
-            "range_end": 12,
+            "range_end": 13,
             "default": 4
         },
         "heavy_win_mcguffins": {
@@ -38,7 +38,7 @@
             "description": "Additional Win McGuffins that are not placed on weapon win locations.",
             "type": "Range",
             "range_start": 0,
-            "range_end": 37,
+            "range_end": 38,
             "default": 4
         },
         "class_specific_items": {

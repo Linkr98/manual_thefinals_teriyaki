@@ -31,11 +31,13 @@ https://github.com/FarisTheAncient/Archipelago/releases
 
 **Important:** Intended to be played in cashout game modes only  (i.e. Cashout, Quick Cash, Head to Head)
 
-It is expected you have ALL the Weapons, Gadgets, and Specializations unlocked (As of Season 9)
+It is expected you have ALL the Weapons, Gadgets, and Specializations unlocked (As of Season 10)
 
 
 
-Goal: Win rounds with x amount of different weapons
+Goal: Collect x amount of Win McGuffins
+
+Win McGuffins can be assigned to winning with different weapons and they can optionally also be added to the general item pool.
 
 
 
@@ -67,15 +69,15 @@ Items are the Ability to use:
 
 
 
-YAML
+YAML:
 
 You can change the number of weapons from each class you need to win with to Goal
 
-You can decide weather items that exist on maniple classes (i.e. Frag Grenade) needs 1 ore multiple items to unlock for all classes
+You can decide weather items that exist on maniple classes (i.e. Frag Grenade) needs 1 or multiple items to unlock for all classes
 
 You can toggle weather Barrels that spawn around the map need to be unlocked
 
-You can toggle weather ALL map variants and conditions are locations. There are some condition and variant checks with this disabled.
+You can toggle weather wins on ALL map variants and conditions are locations. There still are some condition and variant checks when this is off.
 
  
 

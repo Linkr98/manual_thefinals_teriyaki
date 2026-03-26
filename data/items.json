@@ -58,6 +58,12 @@
   },
   {
     "count": 1,
+    "name": "Shockwave",
+    "category": "Medium Specializations",
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Mesh Shield",
     "category": "Heavy Specializations",
     "progression": true
@@ -173,6 +179,12 @@
   {
     "count": 1,
     "name": "Famas",
+    "category": "Medium Weapons",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chimera-XB",
     "category": "Medium Weapons",
     "progression": true
   },
@@ -658,6 +670,12 @@
   {
     "count": 1,
     "name": "(M) Zipline",
+    "category": "Medium Gadgets",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "(M) Hover Pad",
     "category": "Medium Gadgets",
     "progression": true
   },

@@ -309,6 +309,14 @@
         "requires": "|Medium Class| AND |Healing Beam|"
     },
     {
+        "name": "Win a match with the Shockwave",
+        "region": "Start Game",
+        "category": [
+            "Medium Gadget Wins"
+        ],
+        "requires": "|Medium Class| AND |Shockwave|"
+    },
+    {
         "name": "Win a match with the Guardian Turret",
         "region": "Start Game",
         "category": [
@@ -460,6 +468,12 @@
         "region": "Start Game",
         "category": "-Medium Weapon Wins-",
         "requires": "|Famas| AND |Medium Class|"
+    },
+    {
+        "name": "Win a match with the Chimera-XB",
+        "region": "Start Game",
+        "category": "-Medium Weapon Wins-",
+        "requires": "|Chimera-XB| AND |Medium Class|"
     },
     {
         "name": "Win a match with the Dual Blades",
@@ -882,6 +896,14 @@
             "Medium Gadget Wins"
         ],
         "requires": "|(M) Zipline| AND |Medium Class|"
+    },
+    {
+        "name": "Win with Hover Pad",
+        "region": "Start Game",
+        "category": [
+            "Medium Gadget Wins"
+        ],
+        "requires": "|(M) Hover Pad| AND |Medium Class|"
     },
     {
         "name": "Win with Explosive Mine(Medium)",
@@ -1404,6 +1426,22 @@
         "category": [
             "Win on Map Condition",
             "Varientsanity"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Play 5 matches of Quick Cash",
+        "region": "Start Game",
+        "category": [
+            "Basics"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Reach final round in Cashout",
+        "region": "Start Game",
+        "category": [
+            "Cashout"
         ],
         "requires": ""
     }
