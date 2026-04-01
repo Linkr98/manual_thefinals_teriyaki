@@ -1444,5 +1444,29 @@
             "Cashout"
         ],
         "requires": ""
+    },
+    {
+        "name": "Get MVP 1",
+        "region": "Start Game",
+        "category": [
+            "Basics"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Get MVP 2 or higher",
+        "region": "Start Game",
+        "category": [
+            "Basics"
+        ],
+        "requires": ""
+    },
+    {
+        "name": "Get MVP 3 or higher",
+        "region": "Start Game",
+        "category": [
+            "Basics"
+        ],
+        "requires": ""
     }
 ]
